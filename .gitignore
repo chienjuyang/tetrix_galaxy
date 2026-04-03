@@ -1,0 +1,8 @@
+# Local/development-only artifacts (do not push)
+dev_only/
+
+# Python cache/test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
